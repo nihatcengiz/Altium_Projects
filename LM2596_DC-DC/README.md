@@ -5,9 +5,10 @@
 
 ![Uygulama Ekran Görüntüsü](https://github.com/nihatcengiz/Altium_Projects/blob/main/LM2596_DC-DC/LM2596_1.jpg?raw=true)
 
+![Uygulama Ekran Görüntüsü](https://github.com/nihatcengiz/Altium_Projects/blob/main/LM2596_DC-DC/LM2596_3.jpg?raw=true)
+
 ![Uygulama Ekran Görüntüsü](https://github.com/nihatcengiz/Altium_Projects/blob/main/LM2596_DC-DC/LM2596_2.jpg?raw=true)
 
-![Uygulama Ekran Görüntüsü](https://github.com/nihatcengiz/Altium_Projects/blob/main/LM2596_DC-DC/LM2596_3.jpg?raw=true)
 
 
   
