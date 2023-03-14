@@ -1,1 +1,1 @@
-https://www.altium.com/
+[Altium Designer](https://www.altium.com/)
