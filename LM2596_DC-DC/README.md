@@ -1,1 +1,1 @@
-[Altium'da Beraber PCB Çizelim : Buck Converter](https://www.youtube.com/watch?v=n6VyZIZuCj0&t=4122s) kapsamında yaptığım çalışma.
+[Altium'da Beraber PCB Çizelim : Buck Converter](https://www.youtube.com/live/n6VyZIZuCj0?feature=share) kapsamında yaptığım çalışma.
